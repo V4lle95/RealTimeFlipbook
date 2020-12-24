@@ -6,7 +6,7 @@ Its Flipbook maker base of [UnrealSimon](https://www.youtube.com/watch?v=jWxdEhz
 
 ## How to migrate to your project 
 
-{Unreal Migration Process](https://docs.unrealengine.com/en-US/Basics/ContentBrowser/UserGuide/Migrate/index.html)
+[Unreal Migration Process](https://docs.unrealengine.com/en-US/Basics/ContentBrowser/UserGuide/Migrate/index.html)
 
 ## Gifs
 
